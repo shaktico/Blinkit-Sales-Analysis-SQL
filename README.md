@@ -2,9 +2,9 @@
 
 ## About the Project
 
-This project analyzes Blinkit's grocery sales data using Microsoft SQL Server and Power BI. I used SQL to clean the data, calculate business KPIs, and perform sales analysis. The processed data was then connected to Power BI to build an interactive dashboard for business insights.
+Developed a sales analysis solution using Microsoft SQL Server and Power BI to analyze Blinkit's grocery sales data and identify business trends across products, outlets, and customer purchasing patterns.
 
-## Tools
+## Tools Used
 
 - Microsoft SQL Server
 - Power BI
@@ -14,11 +14,11 @@ This project analyzes Blinkit's grocery sales data using Microsoft SQL Server an
 
 ## Project Highlights
 
-- Analyzed **8,523 grocery sales records** using SQL Server.
-- Built an interactive Power BI dashboard to track **Total Sales ($1.20M), Average Sales ($141), Number of Items (8,523), and Average Rating (3.9).**
-- Performed sales analysis by **Item Type, Fat Content, Outlet Type, Outlet Size, Outlet Location, and Establishment Year.**
-- Created interactive slicers and KPI cards for dynamic business analysis.
-- Identified **Supermarket Type 1** as the highest revenue-generating outlet and **Fruits & Vegetables** and **Snack Foods** as the best-performing product categories.
+- Analyzed **8,523 grocery sales records** and calculated key business KPIs including **$1.20M Total Sales, $141 Average Sales, 8,523 Items Sold, and 3.9 Average Rating**.
+- Built an interactive **Power BI dashboard** with KPI cards, slicers, and visualizations to monitor sales performance across **Item Type, Fat Content, Outlet Size, Outlet Location, Outlet Type, and Establishment Year**.
+- Used **SQL Server** to clean and validate the dataset, calculate KPIs, and perform business analysis using aggregate functions, CASE statements, PIVOT, and window functions.
+- Identified **Supermarket Type 1** as the highest revenue-generating outlet and found **Fruits & Vegetables** and **Snack Foods** to be the top-selling product categories.
+- Designed interactive filters to help users analyze sales performance by outlet location, outlet size, and item type, making the dashboard easier to explore and use.
 
 ## Dashboard Preview
 
@@ -31,4 +31,7 @@ https://github.com/shaktico/Blinkit-Sales-Analysis-SQL/blob/main/image.png
 - Blinkit Sales Analysis.pbix
 
 ---
+
+**Created By:** Shakti Singh Rajput
+
 **LinkedIn:** https://www.linkedin.com/in/shakti-singh-95860b3ab
